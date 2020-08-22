@@ -2,7 +2,7 @@
 
 This repository contains a collection of tutorials and implementations of important algorithms in the field of control and optimization of electricity power systems.
 
-Each tutorial and implementation is provided as a Python Notebook with references to the original publication, with links to directly open them in Google Colab. 
+Each tutorial and implementation is provided as a Python Notebook with references to the original publication, with links to directly open them in [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb). 
 
 A full list of current implementations is provided [here](#current-implementations).
 
@@ -20,7 +20,7 @@ I am a strong advocate of reproducing previous works from the literature to get 
 
 This repository is my attempt at learning about control and optimization in power systems, with a hands-on attitude, going in chronological order from the first important papers to today's research.
 
-I believe opfpy can be useful for anyone looking to:
+I believe ``opfpy`` can be useful for anyone looking to:
  * Start learning about power systems.
  * Get a better understanding of the core papers that have shapped the field as it is today.
  * Save time by not having to re-implement previous works.
@@ -29,7 +29,7 @@ I believe opfpy can be useful for anyone looking to:
 ## Contributing
 I try to add the implementation of a new paper every week, but contributions are more than welcome! 
 
-I also keep a list of papers that I intend to implement in the near future [here](#future-implementations). If you would like to implement any of those, or propose a non-listed paper, feel free to email me at robin.x.henry@gmail.com. Alternatively, you can also submit a Pull request.
+I also keep a list of papers that I intend to implement in the near future [here](#future-implementations). If you would like to implement any of those, or propose a non-listed paper, feel free to email me at robin.x.henry@gmail.com. Alternatively, you can also submit a [Pull request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests).
 
 ## Current Implementations
 These paper implementations are classified into different categories and then organized in chronological order.
