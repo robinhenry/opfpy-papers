@@ -1,8 +1,11 @@
 # opfpy
 
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
+
 **A collection of tutorials and implementations of important algorithms in the field of control and optimization of power systems.**
 
-Each tutorial and implementation is provided as a [Python Notebook](https://jupyter.org/) with references to the original publication, with links to directly open them in [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb). 
+Each tutorial and implementation is provided as a [Python Notebook](https://jupyter.org/), with references to the original publication, and can be directly open in [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb). 
 
 A full list of current implementations is provided [here](#current-implementations).
 
