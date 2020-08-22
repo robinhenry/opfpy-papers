@@ -29,7 +29,7 @@ I try to add the implementation of a new paper every week, but contributions are
 
 I also keep a list of papers that I intend to implement in the near future [here](Future Implementations). If you would like to implement any of those, or propose a non-listed paper, feel free to email me at robin.x.henry@gmail.com. Alternatively, you can also submit a Pull request.
 
-## Current Implementations(#current-implementations)
+## Current Implementations
 These paper implementations are classified into different categories and then organized in chronological order.
 
 ### Load Flow Solution Methods
