@@ -10,6 +10,6 @@ Current Implementations
 Load Flow Solution Methods
 --------------------------
 1. Hale, H., and J. Ward. "Digital computer solution of power flow problems." AIEE Transactions, pt. III (Power Apparatus and Systems) 75 (1956): 398-402.
-  * File: [here](notebooks/Ward (1956) - Digital Computer Solution of Power-Flow Problems.ipynb)
+  * File: [here]("notebooks/Ward (1956) - Digital Computer Solution of Power-Flow Problems.ipynb")
   * Open in Google Colab: [here](https://colab.research.google.com/github/robinhenry/opfpy/blob/master/notebooks/Ward%20(1956)%20-%20Digital%20Computer%20Solution%20of%20Power-Flow%20Problems.ipynb)
   
