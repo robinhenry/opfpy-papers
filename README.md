@@ -1,6 +1,6 @@
 # opfpy
 
-This repository contains a collection of tutorials and implementations of important algorithms in the field of control and optimization of electricity power systems.
+**A collection of tutorials and implementations of important algorithms in the field of control and optimization of electricity power systems.**
 
 Each tutorial and implementation is provided as a Python Notebook with references to the original publication, with links to directly open them in [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb). 
 
