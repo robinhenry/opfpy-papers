@@ -35,7 +35,7 @@ I also keep a list of papers that I intend to implement in the near future [here
 These paper implementations are classified into different categories and then organized in chronological order.
 
 #### Load Flow Solution Methods
-1. Hale, H., and J. Ward. "Digital computer solution of power flow problems." AIEE Transactions, pt. III (Power Apparatus and Systems) 75 (1956): 398-402 => [GitHub file](notebooks/Ward%20(1956)%20-%20Digital%20Computer%20Solution%20of%20Power-Flow%20Problems.ipynb) - [Open in Google Colab](https://colab.research.google.com/github/robinhenry/opfpy/blob/master/notebooks/Ward%20(1956)%20-%20Digital%20Computer%20Solution%20of%20Power-Flow%20Problems.ipynb)
+1. Hale, H., and J. Ward. "Digital computer solution of power flow problems." AIEE Transactions, pt. III (Power Apparatus and Systems) 75 (1956): 398-402 => [GitHub file](notebooks/Ward%20(1956)%20-%20Digital%20Computer%20Solution%20of%20Power-Flow%20Problems.ipynb) - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/robinhenry/opfpy/blob/master/notebooks/Ward%20(1956)%20-%20Digital%20Computer%20Solution%20of%20Power-Flow%20Problems.ipynb)
 
 ## Future Implementations
 
