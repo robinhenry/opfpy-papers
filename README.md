@@ -2,7 +2,7 @@
 
 This repository contains a collection of tutorials and implementations of important algorithms in the field of control and optimization of electricity power systems.
 
-Each tutorial and implementation is provided as a Python Notebook with references to the original publication. A full list of current implementations is provided [here](Current Implementations).
+Each tutorial and implementation is provided as a Python Notebook with references to the original publication. A full list of current implementations is provided [here](#current-implementations).
 
 ## Project Motivation
 The fields of power system control and optimization is known for having a steep learning curve, especially for undergraduate students. Generally speaking, it often requires a strong background in:
@@ -29,7 +29,7 @@ I try to add the implementation of a new paper every week, but contributions are
 
 I also keep a list of papers that I intend to implement in the near future [here](Future Implementations). If you would like to implement any of those, or propose a non-listed paper, feel free to email me at robin.x.henry@gmail.com. Alternatively, you can also submit a Pull request.
 
-## Current Implementations
+## Current Implementations(#current-implementations)
 These paper implementations are classified into different categories and then organized in chronological order.
 
 ### Load Flow Solution Methods
