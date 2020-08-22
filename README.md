@@ -39,7 +39,7 @@ These paper implementations are classified into different categories and then or
 
 ## Future Implementations
 
-### Load Flow Solution Methods
+#### Load Flow Solution Methods
 1. Brown, R. J., & Tinney, W. F. (1957). Digital solutions for large power networks. Transactions of the American Institute of Electrical Engineers. Part III: Power Apparatus and Systems, 76(3), 347-351.
 
 2. Glimn, A. F., & Stagg, G. W. (1957). Automatic calculation of load flows. Transactions of the American Institute of Electrical Engineers. Part III: Power Apparatus and Systems, 76(3), 817-825.
