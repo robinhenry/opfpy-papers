@@ -18,12 +18,12 @@ The fields of power system control and optimization is known for having a steep 
 
 As someone who taught himself a lot of this material, I found an important lack of online resources (tutorials, public implementations, blog articles, etc.) compared to other currently popular fields (e.g., Machine Learning). I hope this project will contribute to bridging that gap.
 
-## Who can opfpy be useful for?
+## Who can opfpy-papers be useful for?
 I am a strong advocate of reproducing previous works from the literature to get a better understanding of a research field.
 
 This repository is my attempt at learning about control and optimization in power systems, with a hands-on attitude, going in chronological order from the first important papers to today's research.
 
-I believe ``opfpy`` can be useful for anyone looking to:
+I believe ``opfpy-papers`` can be useful for anyone looking to:
  * Start learning about power systems.
  * Get a better understanding of the core papers that have shapped the field as it is today.
  * Save time by not having to re-implement previous works.
