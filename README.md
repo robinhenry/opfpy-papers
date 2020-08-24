@@ -43,15 +43,14 @@ These paper implementations are classified into different categories and then or
 ## Future Implementations
 
 #### Load Flow Solution Methods
-1. Brown, R. J., & Tinney, W. F. (1957). Digital solutions for large power networks. Transactions of the American Institute of Electrical Engineers. Part III: Power Apparatus and Systems, 76(3), 347-351.
+1. Glimn, A. F., & Stagg, G. W. (1957). Automatic calculation of load flows. Transactions of the American Institute of Electrical Engineers. Part III: Power Apparatus and Systems, 76(3), 817-825.
 
-2. Glimn, A. F., & Stagg, G. W. (1957). Automatic calculation of load flows. Transactions of the American Institute of Electrical Engineers. Part III: Power Apparatus and Systems, 76(3), 817-825.
+2. Brown, H. E., Carter, G. K., Happ, H. H., & Person, C. E. (1963). Power flow solution by impedance matrix iterative method. IEEE transactions on power apparatus and systems, 82(65), 1-10.
 
-3. Brown, H. E., Carter, G. K., Happ, H. H., & Person, C. E. (1963). Power flow solution by impedance matrix iterative method. IEEE transactions on power apparatus and systems, 82(65), 1-10.
+3. Tinney, W. F., & Hart, C. E. (1967). Power flow solution by Newton's method. IEEE Transactions on Power Apparatus and systems, (11), 1449-1460.
 
-4. Tinney, W. F., & Hart, C. E. (1967). Power flow solution by Newton's method. IEEE Transactions on Power Apparatus and systems, (11), 1449-1460.
-
-5. Peschon, J., Piercy, D. S., Tinney, W. F., Tveit, O. J., & Cuenod, M. (1968). Optimum control of reactive power flow. IEEE Transactions on Power Apparatus and Systems, (1), 40-48.
+#### Optimal Power Flows
+1. Peschon, J., Piercy, D. S., Tinney, W. F., Tveit, O. J., & Cuenod, M. (1968). Optimum control of reactive power flow. IEEE Transactions on Power Apparatus and Systems, (1), 40-48.
 
 ## Bug Reports
 Feel free to create a new issue on this repository if you spot any bug. You can also email me at robin.x.henry@gmail.com
