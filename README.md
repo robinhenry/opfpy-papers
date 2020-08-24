@@ -52,5 +52,10 @@ These paper implementations are classified into different categories and then or
 #### Optimal Power Flows
 1. Peschon, J., Piercy, D. S., Tinney, W. F., Tveit, O. J., & Cuenod, M. (1968). Optimum control of reactive power flow. IEEE Transactions on Power Apparatus and Systems, (1), 40-48.
 
+#### Sensitivity Analysis
+1. Peschon, J., Piercy, D. S., Tinney, W. F., & Tveit, O. J. (1968). Sensitivity in power systems. IEEE Transactions on Power Apparatus and Systems, (8), 1687-1696.
+
+2. Hano, I., Tamura, Y., Narita, S., & Matsumoto, K. (1969). Real time control of system voltage and reactive power. IEEE Transactions on Power Apparatus and Systems, (10), 1544-1559.
+
 ## Bug Reports
 Feel free to create a new issue on this repository if you spot any bug. You can also email me at robin.x.henry@gmail.com
