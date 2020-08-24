@@ -43,11 +43,9 @@ These paper implementations are classified into different categories and then or
 ## Future Implementations
 
 #### Load Flow Solution Methods
-1. Glimn, A. F., & Stagg, G. W. (1957). Automatic calculation of load flows. Transactions of the American Institute of Electrical Engineers. Part III: Power Apparatus and Systems, 76(3), 817-825.
+1. Brown, H. E., Carter, G. K., Happ, H. H., & Person, C. E. (1963). Power flow solution by impedance matrix iterative method. IEEE transactions on power apparatus and systems, 82(65), 1-10.
 
-2. Brown, H. E., Carter, G. K., Happ, H. H., & Person, C. E. (1963). Power flow solution by impedance matrix iterative method. IEEE transactions on power apparatus and systems, 82(65), 1-10.
-
-3. Tinney, W. F., & Walker, J. W. (1967). Direct solutions of sparse network equations by optimally ordered triangular factorization. Proceedings of the IEEE, 55(11), 1801-1809.
+2. Tinney, W. F., & Walker, J. W. (1967). Direct solutions of sparse network equations by optimally ordered triangular factorization. Proceedings of the IEEE, 55(11), 1801-1809.
 
 3. Tinney, W. F., & Hart, C. E. (1967). Power flow solution by Newton's method. IEEE Transactions on Power Apparatus and systems, (11), 1449-1460.
 
