@@ -32,7 +32,7 @@ I believe ``opfpy-papers`` can be useful for anyone looking to:
 ## Contributing
 I try to add the implementation of a new paper every week, but contributions are more than welcome! 
 
-I also keep a list of papers that I intend to implement in the near future [here](#future-implementations). If you would like to implement any of those, or propose a non-listed paper, feel free to email me at robin.x.henry@gmail.com. Alternatively, you can also submit a [Pull request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests).
+I also keep a list of papers that I intend to implement in the near future [here](#future-implementations). If you would like to implement any of those, or propose a non-listed paper, feel free to email me at robin@robinxhenry.com. Alternatively, you can also submit a [Pull request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests).
 
 ## Current Implementations
 These paper implementations are classified into different categories and then organized in chronological order.
