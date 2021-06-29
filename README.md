@@ -30,9 +30,9 @@ I believe ``opfpy-papers`` can be useful for anyone looking to:
  * Start using Python for modelling power systems (Python > MATLAB!).
 
 ## Contributing
-I try to add the implementation of a new paper every week, but contributions are more than welcome! 
+I try to add new implementations regularly, but contributions are more than welcome! 
 
-I also keep a list of papers that I intend to implement in the near future [here](#future-implementations). If you would like to implement any of those, or propose a non-listed paper, feel free to email me at robin@robinxhenry.com. Alternatively, you can also submit a [Pull request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests).
+I also keep a list of papers that I would like to implement in the future [here](#future-implementations). If you would like to implement any of those, or propose a non-listed paper, feel free to email me at robin@robinxhenry.com. Alternatively, you can also submit a [Pull request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests).
 
 ## Current Implementations
 These paper implementations are classified into different categories and then organized in chronological order.
@@ -58,4 +58,4 @@ These paper implementations are classified into different categories and then or
 2. Hano, I., Tamura, Y., Narita, S., & Matsumoto, K. (1969). Real time control of system voltage and reactive power. IEEE Transactions on Power Apparatus and Systems, (10), 1544-1559.
 
 ## Bug Reports
-Feel free to create a new issue on this repository if you spot any bug. You can also email me at robin.x.henry@gmail.com
+Feel free to create a new issue on this repository if you spot any bug. You can also email me at robin@robinxhenry.com.
